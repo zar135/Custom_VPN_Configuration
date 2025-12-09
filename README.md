@@ -4,8 +4,10 @@ This project demonstrates how to securely configure a Virtual Private Network (V
 
 # 🚀 Project Overview
 # Objective: 
+
 Configure a secure VPN using OpenVPN and test encrypted communication.
 # Approach: 
+
 Manual setup of OpenVPN server and client with cryptographic material generation, firewall configuration, and VPN testing tools.
 
 # 🛠️ Tools & Technologies
